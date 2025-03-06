@@ -48,8 +48,6 @@ The app is deployed on **Streamlit Cloud** and can be accessed at:
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and create a pull request.
 
-## License
-This project is licensed under the **MIT License**.
 
 ## Contact
 For any queries or feedback, feel free to reach out to **Vishakha Sapkal**.
